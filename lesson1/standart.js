@@ -1,1 +1,2 @@
-alert("Я JavaScript2!")
+let animal = 'Кошка';
+alert(animal)
